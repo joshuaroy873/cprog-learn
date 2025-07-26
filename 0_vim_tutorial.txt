@@ -1,0 +1,9 @@
+This file is to learn vim
+I am learning vim from a tutorial in youtube
+
+I'm able to delete multiple lines by typing <num-of-lines-to-delete.dd
+If i want to delete one line, i'd just type dd.
+
+In command mode, i can type set numbers to view line numbers.
+
+Pretty neat, huh.
